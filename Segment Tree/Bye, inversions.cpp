@@ -1,3 +1,5 @@
+// https://www.codechef.com/problems/ACM14KP2
+
 #include<stdio.h>
 int bit_length;
 int a[200001],b[200001],bit[200009];
