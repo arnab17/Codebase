@@ -1,3 +1,5 @@
+// ACM ICPC Live Archive - 4682 - XOR Sum
+
 #include<bits/stdc++.h>
 using namespace std;
 
