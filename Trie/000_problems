@@ -3,3 +3,5 @@ Problems on Trie ---
 1. The basic template of trie, insert and search
 2. Phonelist
 3. Given an array find the pair of numbers having the maximum xor value.
+4. Subarray with maximum xor (XOR Sum)
+5. REBXOR
